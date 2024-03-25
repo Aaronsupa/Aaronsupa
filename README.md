@@ -1,5 +1,6 @@
 ### Hi there my name's Aaron!👋
 🏫 I'm a current freshman at the University of Texas at Austin
+
 🌱 I’m currently learning Machine Learning, Blockchain Technology, and Computational Biology
 
 <!--
